@@ -1,0 +1,82 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Задача_A_Путешествие_по_прямой", "Задача_A_Путешествие_по_прямой\Задача_A_Путешествие_по_прямой.vcxproj", "{BA4144C1-F508-4FBE-BE59-AC2855908B14}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Задача_B_Степени_числа", "Задача_B_Степени_числа\Задача_B_Степени_числа.vcxproj", "{608E64DD-3C5D-4A37-9690-D0A8C4DD9F82}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Задача_C_Позиционные_системы_счисления", "Задача_C_Позиционные_системы_счисления\Задача_C_Позиционные_системы_счисления.vcxproj", "{99462DE7-6F1A-4800-A7A6-498F15CAC86F}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Задача_D_Список_кратных_чисел", "Задача_D_Список_кратных_чисел\Задача_D_Список_кратных_чисел.vcxproj", "{60828819-BAF5-4F86-A6D0-5A921CC3D115}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Задача_E_Самая_частая_буква", "Задача_E_Самая_частая_буква\Задача_E_Самая_частая_буква.vcxproj", "{66ACF826-276A-4047-A988-02C38AE33211}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Задача_F_Фильтрация_букв", "Задача_F_Фильтрация_букв\Задача_F_Фильтрация_букв.vcxproj", "{D2E191EA-AE34-4D2E-9518-9693E240205F}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Задача_G_Частые_буквы", "Задача_G_Частые_буквы\Задача_G_Частые_буквы.vcxproj", "{49BA68FD-359E-4BD7-AC3C-D2643495C08C}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Задача_H_Самое_частое_число", "Задача_H_Самое_частое_число\Задача_H_Самое_частое_число.vcxproj", "{5328C0F2-3CC7-49A4-949B-8C23EBD80D5E}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Задача_I_Индекс_после_сортировки", "Задача_I_Индекс_после_сортировки\Задача_I_Индекс_после_сортировки.vcxproj", "{081BB6F0-963E-4784-9F8E-5E6711CC56F9}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Задача_J_Сортировка_половин", "Задача_J_Сортировка_половин\Задача_J_Сортировка_половин.vcxproj", "{6311D1C1-6A64-4DC1-82C8-3EB35F4AA84A}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Задача_K_Одинокое_число", "Задача_K_Одинокое_число\Задача_K_Одинокое_число.vcxproj", "{C4080C0D-74BE-4400-9C94-E005073AE98E}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Задача_L_Минимальное_отсутствующее_число", "Задача_L_Минимальное_отсутствующее_число\Задача_L_Минимальное_отсутствующее_число.vcxproj", "{B2F39EC5-B25D-4336-AA69-B2C2EE4191FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA4144C1-F508-4FBE-BE59-AC2855908B14}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{BA4144C1-F508-4FBE-BE59-AC2855908B14}.Debug|Any CPU.Build.0 = Debug|Win32
+		{BA4144C1-F508-4FBE-BE59-AC2855908B14}.Release|Any CPU.ActiveCfg = Release|Win32
+		{BA4144C1-F508-4FBE-BE59-AC2855908B14}.Release|Any CPU.Build.0 = Release|Win32
+		{608E64DD-3C5D-4A37-9690-D0A8C4DD9F82}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{608E64DD-3C5D-4A37-9690-D0A8C4DD9F82}.Debug|Any CPU.Build.0 = Debug|Win32
+		{608E64DD-3C5D-4A37-9690-D0A8C4DD9F82}.Release|Any CPU.ActiveCfg = Release|Win32
+		{608E64DD-3C5D-4A37-9690-D0A8C4DD9F82}.Release|Any CPU.Build.0 = Release|Win32
+		{99462DE7-6F1A-4800-A7A6-498F15CAC86F}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{99462DE7-6F1A-4800-A7A6-498F15CAC86F}.Debug|Any CPU.Build.0 = Debug|Win32
+		{99462DE7-6F1A-4800-A7A6-498F15CAC86F}.Release|Any CPU.ActiveCfg = Release|Win32
+		{99462DE7-6F1A-4800-A7A6-498F15CAC86F}.Release|Any CPU.Build.0 = Release|Win32
+		{60828819-BAF5-4F86-A6D0-5A921CC3D115}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{60828819-BAF5-4F86-A6D0-5A921CC3D115}.Debug|Any CPU.Build.0 = Debug|Win32
+		{60828819-BAF5-4F86-A6D0-5A921CC3D115}.Release|Any CPU.ActiveCfg = Release|Win32
+		{60828819-BAF5-4F86-A6D0-5A921CC3D115}.Release|Any CPU.Build.0 = Release|Win32
+		{66ACF826-276A-4047-A988-02C38AE33211}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{66ACF826-276A-4047-A988-02C38AE33211}.Debug|Any CPU.Build.0 = Debug|Win32
+		{66ACF826-276A-4047-A988-02C38AE33211}.Release|Any CPU.ActiveCfg = Release|Win32
+		{66ACF826-276A-4047-A988-02C38AE33211}.Release|Any CPU.Build.0 = Release|Win32
+		{D2E191EA-AE34-4D2E-9518-9693E240205F}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{D2E191EA-AE34-4D2E-9518-9693E240205F}.Debug|Any CPU.Build.0 = Debug|Win32
+		{D2E191EA-AE34-4D2E-9518-9693E240205F}.Release|Any CPU.ActiveCfg = Release|Win32
+		{D2E191EA-AE34-4D2E-9518-9693E240205F}.Release|Any CPU.Build.0 = Release|Win32
+		{49BA68FD-359E-4BD7-AC3C-D2643495C08C}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{49BA68FD-359E-4BD7-AC3C-D2643495C08C}.Debug|Any CPU.Build.0 = Debug|Win32
+		{49BA68FD-359E-4BD7-AC3C-D2643495C08C}.Release|Any CPU.ActiveCfg = Release|Win32
+		{49BA68FD-359E-4BD7-AC3C-D2643495C08C}.Release|Any CPU.Build.0 = Release|Win32
+		{5328C0F2-3CC7-49A4-949B-8C23EBD80D5E}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{5328C0F2-3CC7-49A4-949B-8C23EBD80D5E}.Debug|Any CPU.Build.0 = Debug|Win32
+		{5328C0F2-3CC7-49A4-949B-8C23EBD80D5E}.Release|Any CPU.ActiveCfg = Release|Win32
+		{5328C0F2-3CC7-49A4-949B-8C23EBD80D5E}.Release|Any CPU.Build.0 = Release|Win32
+		{081BB6F0-963E-4784-9F8E-5E6711CC56F9}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{081BB6F0-963E-4784-9F8E-5E6711CC56F9}.Debug|Any CPU.Build.0 = Debug|Win32
+		{081BB6F0-963E-4784-9F8E-5E6711CC56F9}.Release|Any CPU.ActiveCfg = Release|Win32
+		{081BB6F0-963E-4784-9F8E-5E6711CC56F9}.Release|Any CPU.Build.0 = Release|Win32
+		{6311D1C1-6A64-4DC1-82C8-3EB35F4AA84A}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{6311D1C1-6A64-4DC1-82C8-3EB35F4AA84A}.Debug|Any CPU.Build.0 = Debug|Win32
+		{6311D1C1-6A64-4DC1-82C8-3EB35F4AA84A}.Release|Any CPU.ActiveCfg = Release|Win32
+		{6311D1C1-6A64-4DC1-82C8-3EB35F4AA84A}.Release|Any CPU.Build.0 = Release|Win32
+		{C4080C0D-74BE-4400-9C94-E005073AE98E}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{C4080C0D-74BE-4400-9C94-E005073AE98E}.Debug|Any CPU.Build.0 = Debug|Win32
+		{C4080C0D-74BE-4400-9C94-E005073AE98E}.Release|Any CPU.ActiveCfg = Release|Win32
+		{C4080C0D-74BE-4400-9C94-E005073AE98E}.Release|Any CPU.Build.0 = Release|Win32
+		{B2F39EC5-B25D-4336-AA69-B2C2EE4191FB}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{B2F39EC5-B25D-4336-AA69-B2C2EE4191FB}.Debug|Any CPU.Build.0 = Debug|Win32
+		{B2F39EC5-B25D-4336-AA69-B2C2EE4191FB}.Release|Any CPU.ActiveCfg = Release|Win32
+		{B2F39EC5-B25D-4336-AA69-B2C2EE4191FB}.Release|Any CPU.Build.0 = Release|Win32
+	EndGlobalSection
+EndGlobal

@@ -20,9 +20,9 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
-    <ProjectGuid>{B2F39EC5-B25D-4336-AA69-B2C2EE4191FB}</ProjectGuid>
+    <ProjectGuid>{C9075277-0D00-4D3A-B4E9-282F25E4836F}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>Задача_L_Минимальное_отсутствующее_число</RootNamespace>
+    <RootNamespace>Задача_L</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -154,7 +154,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Задача_L_Минимальное_отсутствующее_число.cpp" />
+    <ClCompile Include="Задача_L_Минимальное_отсутствующее_число.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

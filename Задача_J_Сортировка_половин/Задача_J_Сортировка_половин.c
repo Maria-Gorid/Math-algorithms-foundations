@@ -1,7 +1,7 @@
 #include <stdlib.h>
 #include <stdio.h>
 
-int partition(int arr[], int start, int end, int dir)
+int partition(int* arr, int start, int end, int dir)
 {
     int pivot = arr[start];
     int count = 0;

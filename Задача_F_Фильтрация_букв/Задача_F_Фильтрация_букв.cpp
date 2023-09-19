@@ -1,4 +1,3 @@
-
 #include <stdio.h>
 
 int isContain(char* str, char c)

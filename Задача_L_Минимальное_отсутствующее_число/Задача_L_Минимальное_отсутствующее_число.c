@@ -1,7 +1,7 @@
-#include <stdio.h>
 #include <stdlib.h>
+#include <stdio.h>
 
-int partition(int* arr, int start, int end)
+int partition(int arr[], int start, int end)
 {
     int pivot = arr[start];
     int count = 0;
@@ -49,21 +49,27 @@ int main(int argc, char* argv[])
 {
     int size;
     int* array;
-    int tmp;
-    scanf_s("%d", &size);
+    int count = -1;
+    scanf_s("%i", &size);
     array = (int*)malloc(sizeof(int) * size);
-    
-    for (int i = 0; i < size; ++i)
-        scanf_s("%d", &array[i]);
-    tmp = array[0];
-    
+
+    for (int i = 0; i < size; i++)
+        scanf_s("%i", &array[i]);
+
     quickSort(array, 0, size - 1);
-    for (int i = 0; i < size; ++i)
+    // TODO: НЕ РАБОТАЕТ!!!! 
+    for (int i = 0; i < size; i++)
     {
-        if(array[i] == tmp)
+        if (i < size - 1 && array[i] == array[i + 1])
+            continue;
+        if (array[i] >= 0)
         {
-            printf("%d", i + 1);
-            break;
+            count++;
+            if (array[i] != count)
+            {
+                printf("%d", count);
+                break;
+            }
         }
     }
     free(array);

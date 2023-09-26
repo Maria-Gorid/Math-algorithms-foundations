@@ -6,10 +6,14 @@ int main(int argc, char* argv[])
     scanf_s("%lli", &n);
     res = 1;
     if (n != 1)
-        while (res < 1000000000)
+        while (res < 1000000001)
         {
             printf("%lli ", res);
             res *= n;
         }
+    else
+    {
+        printf("1");
+    }
     return 0;
 }

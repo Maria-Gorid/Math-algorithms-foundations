@@ -54,19 +54,19 @@ int main(int argc, char* argv[])
     
     for (int i = 0; i < size; ++i)
         scanf_s("%d", &array[i]);
-
-    for (int i = 0; i < size - 1; ++i)
+    quickSort(array, 0, size - 1);
+    for (int i = 0; i < size; ++i)
     {
         if (array[i] == array[i + 1])
             count++;
-        if (array[i] != array[i + 1] || i == size - 1)
+        if (array[i] != array[i + 1] || i == size)
         {
-            count = 0;
             if (count > max)
             {
                 max = count;
                 num = array[i];
             }
+            count = 0;
         }
     }
     printf("%d", num);

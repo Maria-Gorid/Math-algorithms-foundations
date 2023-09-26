@@ -73,5 +73,6 @@ int main(int argc, char* argv[])
         }
     }
     free(array);
+    
     return 0;
 }

@@ -40,6 +40,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Задача_F_Фильтр
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Задача_G_Частые_буквы_II", "Задача_G_Частые_буквы_II\Задача_G_Частые_буквы_II.vcxproj", "{9DCF056F-F7C3-42D0-A12C-4B82C76FFD05}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Задача_A_Путешествие_по_прямой_II", "Задача_A_Путешествие_по_прямой_II\Задача_A_Путешествие_по_прямой_II.vcxproj", "{2A2BA67D-04E4-4FF9-9C5C-F2E3ADDBD1D9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -118,6 +120,10 @@ Global
 		{9DCF056F-F7C3-42D0-A12C-4B82C76FFD05}.Debug|Any CPU.Build.0 = Debug|Win32
 		{9DCF056F-F7C3-42D0-A12C-4B82C76FFD05}.Release|Any CPU.ActiveCfg = Release|Win32
 		{9DCF056F-F7C3-42D0-A12C-4B82C76FFD05}.Release|Any CPU.Build.0 = Release|Win32
+		{2A2BA67D-04E4-4FF9-9C5C-F2E3ADDBD1D9}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{2A2BA67D-04E4-4FF9-9C5C-F2E3ADDBD1D9}.Debug|Any CPU.Build.0 = Debug|Win32
+		{2A2BA67D-04E4-4FF9-9C5C-F2E3ADDBD1D9}.Release|Any CPU.ActiveCfg = Release|Win32
+		{2A2BA67D-04E4-4FF9-9C5C-F2E3ADDBD1D9}.Release|Any CPU.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{BA4144C1-F508-4FBE-BE59-AC2855908B14} = {127232C8-602C-44BD-AC35-9F286C60E7C4}
@@ -138,5 +144,6 @@ Global
 		{18F251A9-5749-403D-8840-E5FC0523453F} = {E2D1AE48-3EEE-4439-BFC5-7859C3CBAC94}
 		{28A62F33-50AC-4326-A1E6-8C59FEFA6862} = {E2D1AE48-3EEE-4439-BFC5-7859C3CBAC94}
 		{9DCF056F-F7C3-42D0-A12C-4B82C76FFD05} = {E2D1AE48-3EEE-4439-BFC5-7859C3CBAC94}
+		{2A2BA67D-04E4-4FF9-9C5C-F2E3ADDBD1D9} = {E2D1AE48-3EEE-4439-BFC5-7859C3CBAC94}
 	EndGlobalSection
 EndGlobal

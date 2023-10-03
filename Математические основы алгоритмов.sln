@@ -34,6 +34,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Задача_J_Сортир
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Задача_I_Индекс_после_сортировки_II", "Задача_I_Индекс_после_сортировки_II\Задача_I_Индекс_после_сортировки_II.vcxproj", "{BBD2BEE4-8D6B-4A76-B918-096D9E22D2B5}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Задача_E_Самая_частая_буква_II", "Задача_E_Самая_частая_буква_II\Задача_E_Самая_частая_буква_II.vcxproj", "{18F251A9-5749-403D-8840-E5FC0523453F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -100,6 +102,10 @@ Global
 		{BBD2BEE4-8D6B-4A76-B918-096D9E22D2B5}.Debug|Any CPU.Build.0 = Debug|Win32
 		{BBD2BEE4-8D6B-4A76-B918-096D9E22D2B5}.Release|Any CPU.ActiveCfg = Release|Win32
 		{BBD2BEE4-8D6B-4A76-B918-096D9E22D2B5}.Release|Any CPU.Build.0 = Release|Win32
+		{18F251A9-5749-403D-8840-E5FC0523453F}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{18F251A9-5749-403D-8840-E5FC0523453F}.Debug|Any CPU.Build.0 = Debug|Win32
+		{18F251A9-5749-403D-8840-E5FC0523453F}.Release|Any CPU.ActiveCfg = Release|Win32
+		{18F251A9-5749-403D-8840-E5FC0523453F}.Release|Any CPU.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{BA4144C1-F508-4FBE-BE59-AC2855908B14} = {127232C8-602C-44BD-AC35-9F286C60E7C4}
@@ -117,5 +123,6 @@ Global
 		{3C2B1778-92BB-4012-8DFC-53B5184C12B3} = {E2D1AE48-3EEE-4439-BFC5-7859C3CBAC94}
 		{597C370A-1696-4613-8D9B-DE880AB74DA1} = {E2D1AE48-3EEE-4439-BFC5-7859C3CBAC94}
 		{BBD2BEE4-8D6B-4A76-B918-096D9E22D2B5} = {E2D1AE48-3EEE-4439-BFC5-7859C3CBAC94}
+		{18F251A9-5749-403D-8840-E5FC0523453F} = {E2D1AE48-3EEE-4439-BFC5-7859C3CBAC94}
 	EndGlobalSection
 EndGlobal

@@ -11,6 +11,3 @@ int main(int argc, char* argv[])
 	return 0;
 }
 
-//   A - B - d
-// -10 - 7   2
-

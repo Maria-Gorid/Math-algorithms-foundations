@@ -20,7 +20,7 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
-    <ProjectGuid>{9590E53B-250C-44FB-A133-318C116F5BB0}</ProjectGuid>
+    <ProjectGuid>{9B6D0670-935B-4FCF-9B12-B353D63CF3CB}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>Задача_S_Длина_подпоследовательности</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>

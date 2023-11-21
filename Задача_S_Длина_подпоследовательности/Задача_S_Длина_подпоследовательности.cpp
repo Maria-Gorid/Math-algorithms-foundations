@@ -19,7 +19,7 @@ int main(int argc, char* argv[])
     {
         int pos = (int)(std::upper_bound(d.begin(), d.end(), nums[i],
             [](double value, int n) { return value <= n;}) - d.begin());
-        if (d[pos - 1] < nums[i] && nums[i] < d[pos])
+        if (d[pos - 1] <= nums[i] && nums[i] <= d[pos])
         {
             d[pos] = nums[i];
             m = std::max(m, pos);

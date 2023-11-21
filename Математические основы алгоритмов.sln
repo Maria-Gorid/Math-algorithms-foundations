@@ -60,6 +60,16 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Задача_L_Провер
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Задача_M_Проверка_на_простоту_3", "Задача_M_Проверка_на_простоту_3\Задача_M_Проверка_на_простоту_3.vcxproj", "{4FB44B1A-EF93-4C31-8F7E-A72F2B9CE535}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Вычислительная геометрия", "Вычислительная геометрия", "{61591A86-62FF-4E4A-B5B8-4EC9FA24C6F6}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Задача_B_Точка_пересечения_прямых", "Задача_B_Точка_пересечения_прямых\Задача_B_Точка_пересечения_прямых.vcxproj", "{B1AEC4AC-2870-43C0-8A20-35AA118BA421}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Задача_C_Пересечение_отрезков", "Задача_C_Пересечение_отрезков\Задача_C_Пересечение_отрезков.vcxproj", "{408A37CD-B91C-42FB-845B-56C909AB4CF8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Динамическое программирование", "Динамическое программирование", "{D6A4D1F7-02AB-4B7B-AB43-9FD284D7EEC2}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Задача_S_Длина_подпоследовательности", "Задача_S_Длина_подпоследовательности\Задача_S_Длина_подпоследовательности.vcxproj", "{9590E53B-250C-44FB-A133-318C116F5BB0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -174,6 +184,18 @@ Global
 		{4FB44B1A-EF93-4C31-8F7E-A72F2B9CE535}.Debug|Any CPU.Build.0 = Debug|Win32
 		{4FB44B1A-EF93-4C31-8F7E-A72F2B9CE535}.Release|Any CPU.ActiveCfg = Release|Win32
 		{4FB44B1A-EF93-4C31-8F7E-A72F2B9CE535}.Release|Any CPU.Build.0 = Release|Win32
+		{B1AEC4AC-2870-43C0-8A20-35AA118BA421}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{B1AEC4AC-2870-43C0-8A20-35AA118BA421}.Debug|Any CPU.Build.0 = Debug|Win32
+		{B1AEC4AC-2870-43C0-8A20-35AA118BA421}.Release|Any CPU.ActiveCfg = Release|Win32
+		{B1AEC4AC-2870-43C0-8A20-35AA118BA421}.Release|Any CPU.Build.0 = Release|Win32
+		{408A37CD-B91C-42FB-845B-56C909AB4CF8}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{408A37CD-B91C-42FB-845B-56C909AB4CF8}.Debug|Any CPU.Build.0 = Debug|Win32
+		{408A37CD-B91C-42FB-845B-56C909AB4CF8}.Release|Any CPU.ActiveCfg = Release|Win32
+		{408A37CD-B91C-42FB-845B-56C909AB4CF8}.Release|Any CPU.Build.0 = Release|Win32
+		{9590E53B-250C-44FB-A133-318C116F5BB0}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{9590E53B-250C-44FB-A133-318C116F5BB0}.Debug|Any CPU.Build.0 = Debug|Win32
+		{9590E53B-250C-44FB-A133-318C116F5BB0}.Release|Any CPU.ActiveCfg = Release|Win32
+		{9590E53B-250C-44FB-A133-318C116F5BB0}.Release|Any CPU.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{BA4144C1-F508-4FBE-BE59-AC2855908B14} = {127232C8-602C-44BD-AC35-9F286C60E7C4}
@@ -203,5 +225,8 @@ Global
 		{81144FC4-B097-4389-A0C3-EF10110DB3B4} = {46E4B3A9-1F64-4C0A-8CA5-FB619DA3572B}
 		{1883FEBA-CC25-48A1-B945-03A42DF31545} = {46E4B3A9-1F64-4C0A-8CA5-FB619DA3572B}
 		{4FB44B1A-EF93-4C31-8F7E-A72F2B9CE535} = {46E4B3A9-1F64-4C0A-8CA5-FB619DA3572B}
+		{B1AEC4AC-2870-43C0-8A20-35AA118BA421} = {61591A86-62FF-4E4A-B5B8-4EC9FA24C6F6}
+		{408A37CD-B91C-42FB-845B-56C909AB4CF8} = {61591A86-62FF-4E4A-B5B8-4EC9FA24C6F6}
+		{9590E53B-250C-44FB-A133-318C116F5BB0} = {D6A4D1F7-02AB-4B7B-AB43-9FD284D7EEC2}
 	EndGlobalSection
 EndGlobal

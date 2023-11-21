@@ -64,3 +64,5 @@ Module.symvers
 Mkfile.old
 dkms.conf
 Debug/
+/.idea/
+/.vs/
